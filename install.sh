@@ -7,7 +7,7 @@ echo "
 ██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║╚════██║██║   ██║
 ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║███████║╚██████╔╝
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝ ╚═════╝ 
-▀▀█▀▀ █▀▀█ █▀▀█ █   █▀▀ ~ Tools Instaler By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ  ☪ ~
+▀▀█▀▀ █▀▀█ █▀▀█ █   █▀▀ ~ Tools Instaler By GURU ~
   █   █  █ █  █ █   ▀▀█ 
   ▀   ▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀             
 
@@ -28,7 +28,7 @@ fi
 
  echo "[✔] Installing ...";
  echo "";
- git clone https://github.com/Manisso/Crips.git /usr/share/doc/Crips;
+ git clone https://github.com/guru-lashkare/Crips-info.git /usr/share/doc/Crips;
  echo "#!/bin/bash 
  python /usr/share/doc/Crips/crips.py" '${1+"$@"}' > crips;
  chmod +x crips;
