@@ -47,9 +47,9 @@ To install the tools directly in the system and get new update directly using te
 
 [✔] Download [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 
-[✓] Download [Crips](https://github.com/Manisso/Crips/archive/master.zip)
+[✓] Download [Crips](https://github.com/guru-lashkare/Crips-info/archive/master.zip)
 
-[✓] Extract [Crips](https://github.com/Manisso/Crips/archive/master.zip) into Desktop
+[✓] Extract [Crips](https://github.com/guru-lashkare/Crips-info/archive/master.zip) into Desktop
 
 [◉]Open CMD and type the following commands:
 
@@ -58,4 +58,3 @@ To install the tools directly in the system and get new update directly using te
 [✓] $python crips.py
 
 # Fan Art
-![ART](https://media.giphy.com/media/3ohs7IdEfvc5114C5y/giphy.gif)
