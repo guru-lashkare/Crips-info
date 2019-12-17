@@ -15,9 +15,9 @@ logo = '''\033[0m
    _|_|_|  _|        _|  _|_|_|    _|_|_|    
                          _|                  
                          _| \033[0m  \033[91m    \033[1m 
-       }--{+} Coded By Manisso {+}--{
-     }----{+}  fb.me/dzmanisso {+}----{
-       }--{+} Greetz To IcoDz  {+}--{                               
+       }--{+} Coded By Guru  {+}--{
+     }----{+}  guru lashkare {+}----{
+       }--{+} only education {+}--{                               
      '''
 menu = '''\033[0m
     {1}--Whois lookup
